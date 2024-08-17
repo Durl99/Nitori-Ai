@@ -94,14 +94,14 @@ global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = 'Caegando😎\n\n> *❗Por favor espera y evita el spam❗*'
+global.wait = '⌛Cargando\n\n> *❗Espera y no hagas spam❗*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
 global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
-global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
+global.rg = '『✅🍡  𝔸𝔻𝕍𝔼ℝ𝕋𝔼ℕℂ𝕀𝔸  🍡✅』\n\n'
 global.resultado = rg
-global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
+global.ag = '『⚠️🍡  ℝ𝔼𝕊𝕌𝕃𝕋𝔸𝔻𝕆  🍡⚠️』\n\n'
 global.advertencia = ag
 global.iig = '『❕ 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 』\n\n'
 global.informacion = iig
