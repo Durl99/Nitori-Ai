@@ -107,11 +107,11 @@ global.iig = '『❕🍡 𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀Óℕ 🍡❕ 』\n\n'
 global.informacion = iig
 global.fg = '『❌🍡 𝔼ℝℝ𝕆ℝ 🍡❌』\n\n'
 global.fallo = fg
-global.mg = '『❗️ 𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
+global.mg = '『❗🍡 𝕃𝕆 𝕌𝕊𝔸𝕊𝕋𝔼 𝕄𝔸𝕃 🍡❗』\n\n'
 global.mal = mg
-global.eeg = '『📩 𝙍𝙀𝙋𝙊𝙍𝙏𝙀 📩』\n\n'
+global.eeg = '『📩 🍡 ℝ𝔼ℙ𝕆ℝ𝕋𝔼 🍡 📩』\n\n'
 global.envio = eeg
-global.eg = '『💚 𝙀𝙓𝙄𝙏𝙊𝙎 💚』\n\n'
+global.eg = '『✅🍡 𝔼𝕏𝕀𝕋𝕆 🍡✅』\n\n'
 global.exito = eg
 
 //-------------------------[ IMAGEN ]------------------------------
